@@ -21,5 +21,5 @@ MIT License — libre d’utilisation et de modification, en conservant le créd
 
 ## 📦 Versions
 
-Consulte toutes les versions et mises à jour de **mAI** ici : [mAI Releases](https://github.com/mAI-mAIPlatform/m-updates-releases-mai/releases) Nous sommes à la 26 4.2.
+Consulte toutes les versions et mises à jour de **mAI** ici : [mAI Releases](https://github.com/mAI-mAIPlatform/m-updates-releases-mai/releases)
 
